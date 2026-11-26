@@ -18,6 +18,16 @@ Dokumentation zu einem **AutoIt-Overlay**, das beim Relic-Forge-Minispiel von En
 - Spawn-Regel: Stufe X entfernt Stufe X−4 aus dem Pool (einstellbar über `PoolShift` in der INI)
 - Nicht mehr spawnende Relikte gelten als „toter Ballast“ und werden bevorzugt per Hammer entfernt
 
+## Bilder
+
+![Hex-Raster, Schema](bilder/hex-raster-schema.png)
+
+![Relikt-Stufen](bilder/stufen.png)
+
+![Ergebnisbildschirm eines Laufs mit Stufe 10](bilder/run-over.png)
+
+Die ersten beiden Bilder sind Schemazeichnungen, das dritte ist ein Screenshot aus dem Spiel.
+
 ## Bedienung (NumLock an)
 
 | Taste | Funktion |
